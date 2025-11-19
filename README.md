@@ -172,4 +172,19 @@ La integración con `smollm:360m` es efectiva y las respuestas de IA son precisa
 
 ## 12. ANEXOS
 
-- **Anexo 1:** Captura
+## 12. ANEXOS
+
+### Anexo 1: Configuración del repositorio y subida a GitHub
+- `git.png` — Muestra el comando `git push origin main` y la confirmación de que el código se subió correctamente.
+
+### Anexo 2: Instalación y verificación del modelo `smollm:360m` con Ollama
+- `ollama.png` — Muestra los comandos `ollama --version`, `ollama pull smollm:360m` y `ollama list` con el modelo `smollm:360m` instalado.
+
+### Anexo 3: Configuración del entorno de desarrollo (Python y pip)
+- `python.png` — Muestra los comandos `python --version` y `pip --version` (aunque `pip` no funcionó inicialmente, lo solucionamos).
+
+### Anexo 4: Instalación de dependencias del sistema
+- `requerimientos.png` — Muestra el proceso de instalación de las dependencias con `pip install -r requirements.txt`.
+
+### Anexo 5: Despliegue del sistema y funcionalidad
+- `push.png` — Muestra el comando `git push origin main` y la confirmación de que el código se subió correctamente (duplicado, pero útil como evidencia adicional).
